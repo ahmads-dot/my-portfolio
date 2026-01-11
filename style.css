@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+      background-image: url("portfolio.jpg");
+      background-size: cover;
+    background-position: center;
+}
+div{
+    height: 35px;
+    width: auto;
+}
+a{
+    font-family: sans-serif;
+    padding-top: 15px;
+    text-decoration: none;
+    float: inline-end;
+    margin-left: 100px;
+    color: darkslategray;
+    font-size: 13px;
+}
+li{
+    padding-top: 15px;
+    color: darkslategray;
+    display: inline-block;
+    padding-left: 50px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 25px;
+    
+}
+#beta{
+    padding-right: 20px;
+} 
+#alpha{
+    height: 350px;
+    width: 530px;
+    position: fixed;
+    top: 150px;
+    left: 150px;
+    padding-top: 20px;
+}
+h1{
+    padding-left: 35px;
+    font-size: 40px;
+}
+h2{
+    margin-top: 30px;
+    padding-left: 35px;
+}
+p{
+    padding-left:35px;
+    padding-top: 20px;
+    font-size: 18px;
+}
+img{
+    padding-top: 80px;
+    float: right;
+    padding-right: 200px;
+}
+     
